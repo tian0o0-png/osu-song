@@ -1,0 +1,84 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 98893
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 111473
+DistanceSpacing: 1.5
+BeatDivisor: 6
+GridSize: 16
+TimelineZoom: 1.1
+
+[Metadata]
+Title:Sparkle
+TitleUnicode:Sparkle
+Artist:RADWIMPS
+ArtistUnicode:RADWIMPS
+Creator:CABERMAN
+Version:Ore
+Source:君の名は。
+Tags:
+BeatmapID:1463918
+BeatmapSetID:675432
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.8
+SliderTickRate:3
+
+[Events]
+//Background and Video events
+0,0,"BACKGROUND FOR MAP.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2119,483.870967741935,4,2,0,39,1,0
+98893,-71.4285714285714,4,2,0,70,0,1
+114377,-71.4285714285714,4,2,0,60,0,0
+
+
+[HitObjects]
+158,262,2119,6,0,L|99:240,1,60
+227,209,2441,1,0,0:0:0:0:
+353,192,2602,6,0,L|412:170,1,60
+284,138,2924,1,0,0:0:0:0:
+158,114,3086,6,0,L|99:92,1,60
+282,72,3408,1,0,0:0:0:0:
+282,72,3570,6,0,L|345:51,1,60
+159,123,3893,1,0,0:0:0:0:
+159,123,4054,6,0,L|96:101,1,60
+282,173,4377,1,0,0:0:0:0:
+282,173,4538,6,0,L|344:151,1,60
+149,260,4860,1,0,0:0:0:0:
+149,260,5021,6,0,L|87:238,1,60
+276,312,5344,1,0,0:0:0:0:
+276,312,5505,6,0,L|338:290,1,60
+226,102,5828,1,0,0:0:0:0:
+141,190,5989,2,0,B|167:236|311:148|384:211,1,240
+254,314,6796,1,0,0:0:0:0:
+192,191,6957,6,0,B|255:126|255:126|320:191,1,180
+217,273,7602,1,0,0:0:0:0:
+288,94,7764,1,0,0:0:0:0:
+369,191,7925,2,0,B|345:236|201:148|139:202,1,240
+257,316,8731,1,0,0:0:0:0:
+319,193,8892,6,0,B|256:128|256:128|192:191,1,180
+350,225,9538,5,0,0:0:0:0:
+158,158,9699,1,0,0:0:0:0:
+256,78,9860,2,0,B|301:103|211:246|263:309,1,240

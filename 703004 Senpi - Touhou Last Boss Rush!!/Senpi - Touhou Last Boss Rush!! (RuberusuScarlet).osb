@@ -1,0 +1,2660 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,TopLeft,"858063_p0.png",0,0
+Sprite,Background,Centre,"SB\0\1.png",400,200
+ S,0,2029,,0.7
+ F,0,2029,3029,0,1
+ F,0,8029,9029,1,0
+Sprite,Background,Centre,"SB\0\2.png",400,260
+ S,0,4029,,0.7
+ F,0,4029,5029,0,1
+ F,0,8029,9029,1,0
+Sprite,Background,Centre,"SB\0\3.png",400,190
+ S,0,10029,,0.7
+ F,0,10029,11029,0,1
+ F,0,16029,17029,1,0
+Sprite,Background,Centre,"SB\0\4.png",400,230
+ S,0,11029,,0.7
+ F,0,11029,12029,0,1
+ F,0,16029,17029,1,0
+Sprite,Background,Centre,"SB\0\5.png",400,300
+ S,0,13029,,0.7
+ F,0,13029,14029,0,1
+ F,0,16029,17029,1,0
+Sprite,Background,Centre,"SB\0\6.png",400,240
+ S,0,18029,,0.7
+ F,0,18029,19029,0,1
+ F,0,24029,25029,1,0
+Sprite,Background,Centre,"SB\0\7.png",400,200
+ S,0,26029,,0.7
+ F,0,26029,27029,0,1
+ F,0,32029,33029,1,0
+Sprite,Background,Centre,"SB\0\8.png",400,240
+ S,0,28029,,0.7
+ F,0,28029,29029,0,1
+ F,0,32029,33029,1,0
+Sprite,Background,Centre,"SB\0\R.png",380,400
+ F,0,34029,,1
+ S,0,34029,34129,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\0\E.png",400,400
+ F,0,34229,,1
+ S,0,34229,34329,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\0\A.png",420,400
+ F,0,34429,,1
+ S,0,34429,34529,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\0\D.png",440,400
+ F,0,34629,,1
+ S,0,34629,34729,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\0\Y.png",460,400
+ F,0,34829,,1
+ S,0,34829,34929,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\0\comma.png",480,400
+ F,0,35029,,1
+ S,0,35029,35129,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\0\comma.png",500,400
+ F,0,35229,,1
+ S,0,35229,35329,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\0\comma.png",520,400
+ F,0,35429,,1
+ S,0,35429,35529,1,0.7
+ F,0,36525,,0
+Sprite,Background,Centre,"SB\1st\kou.png",400,240
+ S,0,42252,,0.7
+ F,0,42252,43515,0,0.3
+ F,0,46042,46673,0.3,0
+Sprite,Background,Centre,"SB\1st\remi1.jpg",320,240
+ F,0,46673,47305,0,1
+ F,0,56147,56778,1,0
+Sprite,Background,Centre,"SB\1st\1.png",400,220
+ F,0,37200,,1
+ F,0,38463,,0
+Sprite,Background,Centre,"SB\1st\2.png",400,260
+ F,0,37200,,1
+ F,0,38463,,0
+Sprite,Background,Centre,"SB\1st\4.png",400,220
+ F,0,39726,,1
+ F,0,40989,,0
+Sprite,Background,Centre,"SB\1st\5.png",400,260
+ F,0,39726,,1
+ F,0,40989,,0
+Sprite,Background,Centre,"SB\1st\7.png",400,260
+ F,0,40989,,1
+ F,0,41936,42252,1,0
+Sprite,Background,Centre,"SB\1st\3.png",400,240
+ F,0,38463,,1
+ F,0,39726,,0
+Sprite,Background,Centre,"SB\1st\6.png",400,220
+ F,0,40989,,1
+ F,0,41936,42252,1,0
+Sprite,Background,Centre,"SB\1st\remi2.jpg",320,240
+ F,0,56778,57410,0,1
+ F,0,66252,67200,1,0
+Sprite,Background,Centre,"SB\1st\remi3.jpg",320,240
+ F,0,67200,67515,0,1
+ F,0,76357,76989,1,0
+Sprite,Background,Centre,"SB\1st\remi3.jpg",320,240
+ F,0,67515,67831,1,0
+ S,0,67515,67831,1,1.3
+Sprite,Background,Centre,"SB\2nd19th\you.png",400,240
+ S,0,77621,,0.7
+ F,0,77621,78252,0,0.3
+ F,0,82042,82673,0.3,0
+Sprite,Background,Centre,"SB\2nd19th\yuyuko1.jpg",320,240
+ F,0,82673,83305,0,1
+ F,0,96568,97200,1,0
+Sprite,Background,Centre,"SB\2nd19th\yuyuko2.jpg",320,240
+ F,0,97200,97831,0,1
+ F,0,116778,117410,1,0
+Sprite,Background,Centre,"SB\2nd19th\yuyuko3.jpg",320,240
+ F,0,117726,118042,0,1
+ F,0,136989,137621,1,0
+Sprite,Background,Centre,"SB\2nd19th\yuyuko3.jpg",320,240
+ F,0,118042,118357,1,0
+ S,0,118042,118357,1,1.3
+Sprite,Background,Centre,"SB\3rd\sui.png",400,240
+ S,0,138252,,0.7
+ F,0,138252,138884,0,0.3
+ F,0,146463,147094,0.3,0
+Sprite,Background,Centre,"SB\3rd\suika1.jpg",320,240
+ F,0,146463,147094,0,1
+ F,0,157831,158463,1,0
+Sprite,Background,Centre,"SB\3rd\suika2.jpg",320,240
+ F,0,158463,159094,0,1
+ F,0,187515,188147,1,0
+Sprite,Background,Centre,"SB\3rd\suika3.jpg",320,240
+ F,0,188147,188778,0,1
+ F,0,214673,215304,1,0
+Sprite,Background,Centre,"SB\3rd\suika3.jpg",320,240
+ F,0,198252,198883,1,0
+ S,0,198252,198883,1,1.3
+Sprite,Background,Centre,"SB\4th5th20th\ei.png",400,240
+ S,0,215936,,0.7
+ F,0,215936,216568,0,0.3
+ F,0,222576,223517,0.3,0
+ F,0,233622,234253,0,0.3
+ F,0,241832,242464,0.3,0
+Sprite,Background,Centre,"SB\4th5th20th\eirin.jpg",320,240
+ F,0,222576,223517,0,1
+ F,0,223517,232359,1
+ F,0,232359,232990,1,0
+Sprite,Background,Centre,"SB\4th5th20th\eirin.jpg",320,240
+ F,0,223517,224148,1,0
+ S,0,223517,224148,1,1.3
+Sprite,Background,Centre,"SB\4th5th20th\kaguya.jpg",320,240
+ F,0,241832,242464,0,1
+ F,0,242464,259200,1
+ F,0,259200,260147,1,0
+Sprite,Background,Centre,"SB\4th5th20th\eirinkaguya1.jpg",320,240
+ F,0,261095,261726,0,1
+ F,0,261726,289516,1
+ F,0,289516,290779,1,0
+Sprite,Background,Centre,"SB\4th5th20th\eirinkaguya1.jpg",320,240
+ F,0,271200,271831,1,0
+ S,0,271200,271831,1,1.3
+Sprite,Background,Centre,"SB\6th\ka.png",400,240
+ S,0,291410,,0.7
+ F,0,291410,292042,0,0.3
+ F,0,298358,298989,0.3,0
+Sprite,Background,Centre,"SB\7th\kaze.png",400,240
+ F,0,385515,,0.3
+ S,0,385515,,0.7
+ F,0,394357,394989,0.3,0
+Sprite,Background,Centre,"SB\8th22nd\hisou.png",400,240
+ S,0,475199,,0.7
+ F,0,475199,475831,0,0.3
+ F,0,482778,483410,0.3,0
+Sprite,Background,Centre,"SB\9th\chi.png",400,240
+ S,0,550989,,0.7
+ F,0,550989,551621,0,0.3
+ M,0,553515,,401.1636,240
+ F,0,557936,558568,0.3,0
+Sprite,Background,Centre,"SB\10th21st\hi.png",400,240
+ S,0,601515,,0.7
+ F,0,601515,602147,0,0.3
+ F,0,608463,609094,0.3,0
+Sprite,Background,Centre,"SB\11th\sei.png",400,240
+ S,0,662147,,0.7
+ F,0,662147,662778,0,0.3
+ F,0,670989,671621,0.3,0
+Sprite,Background,Centre,"SB\6th\eiki1.jpg",320,240
+ F,0,298989,299621,0,1
+ F,0,319199,319831,1,0
+Sprite,Background,Centre,"SB\6th\eiki1.jpg",320,240
+ F,0,299621,300252,1,0
+ S,0,299621,300252,1,1.3
+Sprite,Background,Centre,"SB\6th\eiki2.jpg",320,240
+ F,0,319831,320463,0,1
+ F,0,356463,357094,1,0
+Sprite,Background,Centre,"SB\6th\eiki3.jpg",320,240
+ F,0,357094,357726,0,1
+ F,0,375410,377936,1,0
+Sprite,Background,Centre,"SB\6th\eiki3.jpg",320,240
+ F,0,357726,358357,1,0
+ S,0,357726,358357,1,1.3
+Sprite,Background,Centre,"SB\7th\kanako.jpg",320,240
+ F,0,394357,394989,0,1
+ F,0,394989,415199,1
+ F,0,415199,415831,1,0
+Sprite,Background,Centre,"SB\7th\kanako.jpg",320,240
+ F,0,395621,396252,1,0
+ S,0,395621,396252,1,1.3
+Sprite,Background,Centre,"SB\7th\kanako2.jpg",320,240
+ F,0,415831,416463,0,1
+ F,0,416463,434778,1
+ F,0,434778,435410,1,0
+Sprite,Background,Centre,"SB\7th\kanako3.jpg",320,240
+ F,0,436042,437305,0,1
+ F,0,437305,456252,1
+ F,0,456252,457199,1,0
+Sprite,Background,Centre,"SB\7th\kanako4.jpg",320,240
+ F,0,457199,457515,0,1
+ F,0,457515,474568,1
+ F,0,474568,475199,1,0
+Sprite,Background,Centre,"SB\7th\kanako4.jpg",320,240
+ F,0,457515,458147,1,0
+ S,0,457515,458147,1,1.3
+Sprite,Background,Centre,"SB\8th22nd\tenshi.jpg",320,240
+ F,0,482778,483410,0,1
+ F,0,494778,495410,1,0
+Sprite,Background,Centre,"SB\8th22nd\tenshi3.jpg",320,240
+ F,0,495410,496042,0,1
+ F,0,529515,530147,1,0
+Sprite,Background,Centre,"SB\8th22nd\tenshi2.jpg",320,240
+ F,0,530147,530778,0,1
+ F,0,548463,549726,1,0
+Sprite,Background,Centre,"SB\8th22nd\tenshi2.jpg",320,240
+ F,0,530778,531410,1,0
+ S,0,530778,531410,1,1.3
+Sprite,Background,Centre,"SB\9th\utsuho2.jpg",320,240
+ F,0,557936,558568,0,1
+ F,0,577515,578147,1,0
+Sprite,Background,Centre,"SB\9th\utsuho.jpg",320,240
+ F,0,578147,578778,0,1
+ F,0,598989,600252,1,0
+Sprite,Background,Centre,"SB\9th\utsuho2.jpg",320,240
+ F,0,558568,559199,1,0
+ S,0,558568,559199,1,1.3
+Sprite,Background,Centre,"SB\9th\utsuho.jpg",320,240
+ F,0,578778,579410,1,0
+ S,0,578778,579410,1,1.3
+Sprite,Background,Centre,"SB\10th21st\namazu.jpg",320,240
+ F,0,608463,609094,0,1
+ F,0,609094,617936,1
+ F,0,617936,618568,1,0
+Sprite,Background,Centre,"SB\10th21st\alice.jpg",320,240
+ F,0,618568,619199,0,1
+ F,0,619199,649515,1
+ F,0,649515,650147,1,0
+Sprite,Background,Centre,"SB\10th21st\tensoku.jpg",320,240
+ F,0,650147,650778,0,1
+ F,0,650778,659621,1
+ F,0,659621,660884,1,0
+ F,0,660884,,0
+Sprite,Background,Centre,"SB\10th21st\tensoku.jpg",320,240
+ F,0,650778,651410,1,0
+ S,0,650778,651410,1,1.3
+Sprite,Background,Centre,"SB\11th\hijiri3.jpg",320,240
+ F,0,670989,671621,0,1
+ F,0,698778,699665,1,0
+Sprite,Background,Centre,"SB\11th\hijiri2.jpg",320,240
+ F,0,699665,700319,0,1
+ F,0,723687,724319,1,0
+Sprite,Background,Centre,"SB\11th\hijiri5.jpg",320,240
+ F,0,724319,724950,0,1
+ F,0,757484,758432,1,0
+ F,0,758432,,0
+Sprite,Background,Centre,"SB\11th\hijiri1.jpg",320,240
+ F,0,758432,759063,0,1
+ F,0,759063,798537,1
+ F,0,798537,799501,1
+Sprite,Background,Centre,"SB\11th\hijiri6.jpg",320,240
+ F,0,798537,799501,0,1
+ F,0,799501,812124,1,0
+Sprite,Background,Centre,"SB\11th\hijiri4.jpg",320,240
+ F,0,820810,822040,0,1
+ M,0,820810,830656,361.3091,126.5455,264.7273,359.8546
+ S,0,820810,830656,1.465455,1.512
+Sprite,Background,Centre,"SB\12th\shinki2.jpg",320,240
+ S,0,830656,,1.337455
+ P,0,830656,,H
+ M,0,830656,835579,402.0364,158.5455,238.5454,280.1454
+ F,0,834963,835579,1,0
+Sprite,Background,Centre,"SB\white.jpg",320,240
+ F,0,829425,830656,0,1
+ F,0,830656,831886,1,0
+ M,0,840764,,320,240
+Sprite,Background,Centre,"SB\11th\hijiri2.jpg",320,240
+ F,0,700319,700950,1,0
+ S,0,700319,700950,1,1.3
+Sprite,Background,Centre,"SB\11th\hijiri1.jpg",320,240
+ F,0,779274,779905,1,0
+ S,0,779274,779905,1,1.3
+Sprite,Background,Centre,"SB\12th\kai.png",400,240
+ S,0,835579,,0.7
+ F,0,835579,836194,0,0.3
+ F,0,839937,840764,0.3,0
+Sprite,Background,Centre,"SB\12th\shinki3.jpg",320,240
+ F,0,839937,840764,0,1
+ F,0,859840,860456,1,0
+Sprite,Background,Centre,"SB\12th\shinki3.jpg",320,240
+ F,0,840764,841379,1,0
+ S,0,840764,841379,1,1.3
+Sprite,Background,Centre,"SB\12th\shinki4.jpg",320,240
+ F,0,860456,861071,0,1
+ F,0,861071,879533,1
+ F,0,879533,880148,1,0
+Sprite,Background,Centre,"SB\12th\shinki5.jpg",320,240
+ F,0,880148,880764,0,1
+ F,0,880764,898610,1
+ F,0,898610,899225,1,0
+Sprite,Background,Centre,"SB\12th\shinki.jpg",320,240
+ F,0,899225,899840,0,1
+ F,0,919533,920764,1,0
+Sprite,Background,Centre,"SB\12th\shinki.jpg",320,240
+ F,0,899840,900456,1,0
+ S,0,899840,900456,1,1.3
+Sprite,Background,Centre,"SB\13th\gen.png",400,240
+ S,0,920764,,0.7
+ F,0,920764,921379,0,0.3
+ F,0,928764,929379,0.3,0
+Sprite,Background,Centre,"SB\13th\yuuka4.jpg",320,240
+ P,0,928764,,H
+ F,0,928764,929379,0,1
+ F,0,937994,938610,1,0
+Sprite,Background,Centre,"SB\13th\yuuka2.jpg",320,240
+ F,0,938610,939225,0,1
+ F,0,958917,959533,1,0
+Sprite,Background,Centre,"SB\13th\yuuka2.jpg",320,240
+ F,0,939225,939840,1,0
+ S,0,939225,939840,1,1.3
+Sprite,Background,Centre,"SB\13th\yuuka3.jpg",320,240
+ F,0,959533,960763,0,1
+ M,0,959533,975533,430,96,430,447
+ F,0,974302,975533,1,0
+Sprite,Background,Centre,"SB\14th\mu.png",400,240
+ S,0,975533,,0.7
+ F,0,975533,976148,0,0.3
+ F,0,983533,984148,0.3,0
+Sprite,Background,Centre,"SB\14th\yumemi.jpg",320,240
+ F,0,983533,984148,0,1
+ F,0,1003225,1003840,1,0
+Sprite,Background,Centre,"SB\14th\yumemi.jpg",320,240
+ F,0,984148,984763,1,0
+ S,0,984148,984763,1,1.3
+Sprite,Background,Centre,"SB\14th\yumemi2.jpg",320,240
+ F,0,1003840,1004456,0,1
+ F,0,1004456,1022917,1
+ F,0,1022917,1023533,1,0
+Sprite,Background,Centre,"SB\14th\yumemi3.jpg",320,240
+ F,0,1023533,1024148,0,1
+ M,0,1023533,1044456,433,92,433,452
+ F,0,1024148,1043225,1
+ F,0,1043225,1044456,1,0
+Sprite,Background,Centre,"SB\15th\fuu.png",400,240
+ S,0,1044456,,0.7
+ F,0,1044456,1045071,0,0.3
+ F,0,1051840,1052456,0.3,0
+Sprite,Background,Centre,"SB\15th\mima2.jpg",320,240
+ F,0,1051840,1052456,0,1
+ F,0,1081994,1082609,1,0
+Sprite,Background,Centre,"SB\15th\mima2.jpg",320,240
+ F,0,1062917,1063533,1,0
+ S,0,1062917,1063533,1,1.3
+Sprite,Background,Centre,"SB\15th\mima3.jpg",320,240
+ P,0,1082609,,H
+ F,0,1082609,1083225,0,1
+ F,0,1122321,1122936,1,0
+Sprite,Background,Centre,"SB\15th\mima1.jpg",320,240
+ F,0,1122936,1123552,0,1
+ F,0,1143244,1144475,1,0
+Sprite,Background,Centre,"SB\15th\mima1.jpg",320,240
+ F,0,1123552,1124167,1,0
+ S,0,1123552,1124167,1,1.3
+Sprite,Background,Centre,"SB\16th17th18th\rei.png",400,240
+ S,0,1144475,,0.7
+ F,0,1144475,1145090,0,0.3
+ F,0,1152475,1153090,0.3,0
+Sprite,Background,Centre,"SB\16th17th18th\kongara.jpg",320,240
+ F,0,1152475,1153090,0,1
+ F,0,1171552,1172167,1,0
+Sprite,Background,Centre,"SB\16th17th18th\konngara2.jpg",320,240
+ P,0,1172167,,H
+ F,0,1172167,1172782,0,1
+ F,0,1172782,1201090,1
+Sprite,Background,Centre,"SB\16th17th18th\konngara2.jpg",320,240
+ P,0,1172782,,H
+ F,0,1172782,1173398,1,0
+ S,0,1172782,1173398,1,1.3
+Sprite,Background,Centre,"SB\16th17th18th\konngara3.jpg",320,240
+ P,0,1198629,,H
+ F,0,1198629,1201090,0,1
+ F,0,1203552,1207244,1,0
+Sprite,Background,Centre,"SB\16th17th18th\rei.png",400,240
+ S,0,1208475,,0.7
+ F,0,1208475,1209705,0,0.3
+ F,0,1217765,1218607,0.3,0
+Sprite,Background,Centre,"SB\16th17th18th\Sariel.jpg",320,240
+ F,0,1217765,1218607,0,1
+ F,0,1237683,1238299,1,0
+Sprite,Background,Centre,"SB\16th17th18th\Sariel.jpg",320,240
+ F,0,1218607,1219222,1,0
+ S,0,1218607,1219222,1,1.3
+Sprite,Background,Centre,"SB\16th17th18th\sarieru3.jpg",320,240
+ F,0,1238299,1238914,0,1
+ F,0,1238914,1268153,1
+ F,0,1268153,1268477,1
+Sprite,Background,Centre,"SB\16th17th18th\sarieru4.jpg",320,240
+ F,0,1268153,1268477,0,1
+ F,0,1268477,1268801,1
+ F,0,1268801,1279652,1,0
+Sprite,Background,Centre,"SB\16th17th18th\sarieru3.jpg",320,240
+ F,0,1248461,1249076,1,0
+ S,0,1248461,1249076,1,1.3
+Sprite,Background,Centre,"SB\16th17th18th\rei.png",400,240
+ S,0,1284050,,0.7
+ F,0,1284050,1293200,0.3
+Sprite,Background,Centre,"SB\16th17th18th\sarieru2.jpg",320,240
+ F,0,1293200,1302800,1
+Sprite,Background,Centre,"SB\2nd19th\you.png",400,240
+ S,0,1302800,,0.7
+ F,0,1302800,1308800,0.3
+Sprite,Background,Centre,"SB\2nd19th\yuyuko4.jpg",320,240
+ F,0,1308800,,1
+ M,0,1322000,,320,240
+Sprite,Background,Centre,"SB\4th5th20th\ei.png",400,240
+ S,0,1322000,,0.7
+ F,0,1322000,1328000,0.3
+Sprite,Background,Centre,"SB\4th5th20th\eirinkaguya2.jpg",320,240
+ F,0,1328000,1341200,1
+Sprite,Background,Centre,"SB\10th21st\hi.png",400,240
+ S,0,1341200,,0.7
+ F,0,1341200,1348400,0.3
+Sprite,Background,Centre,"SB\10th21st\suwako.jpg",320,240
+ F,0,1348400,1360636,1
+Sprite,Background,Centre,"SB\8th22nd\hisou.png",400,240
+ S,0,1360636,,0.7
+ F,0,1360636,1369900,0.3
+Sprite,Background,Centre,"SB\8th22nd\tenshi4.jpg",320,240
+ F,0,1369900,1382483,1
+Sprite,Background,Centre,"SB\8th22nd\hisou.png",400,240
+ F,0,1383443,,0.3
+ S,0,1383443,,0.7
+ F,0,1389855,1390771,0.3,0
+Sprite,Background,Centre,"858063_p0.png",320,240
+ S,0,1389855,,0.4444444
+ F,0,1389855,1390771,0,1
+ F,0,1390771,1588175,1
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"SB\0-9\0-.png",400,240
+ M,0,42884,,260,165
+ F,0,42884,42963,0,1
+ F,0,46042,46252,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",400,240
+ F,0,42963,43042,0,1
+ M,0,43042,,300,165
+ F,0,46252,46463,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",400,240
+ F,0,43042,43121,0,1
+ M,0,43121,,340,165
+ F,0,46463,46673,1,0
+Sprite,Foreground,Centre,"SB\kanji\na.png",400,240
+ F,0,43121,43200,0,1
+ M,0,43200,,260,230
+ F,0,46042,46132,1,0
+Sprite,Foreground,Centre,"SB\kana\ki.png",400,240
+ F,0,43200,43278,0,1
+ M,0,43278,,300,230
+ F,0,46132,46222,1,0
+Sprite,Foreground,Centre,"SB\kanji\ou.png",400,240
+ F,0,43278,43357,0,1
+ M,0,43357,,340,230
+ F,0,46222,46312,1,0
+Sprite,Foreground,Centre,"SB\kanji\jo.png",400,240
+ F,0,43357,43436,0,1
+ M,0,43436,,380,230
+ F,0,46312,46403,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",400,240
+ F,0,43436,43515,0,1
+ M,0,43515,,420,230
+ F,0,46403,46493,1,0
+Sprite,Foreground,Centre,"SB\kanji\tame.png",400,240
+ F,0,43515,43594,0,1
+ M,0,43594,,460,230
+ F,0,46493,46583,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",400,240
+ F,0,43594,43673,0,1
+ M,0,43673,,500,230
+ F,0,46583,46673,1,0
+Sprite,Foreground,Centre,"SB\kata\se.png",400,240
+ F,0,43673,43752,0,1
+ M,0,43752,,380,300
+ F,0,46042,46168,1,0
+Sprite,Foreground,Centre,"SB\kata\pu.png",400,240
+ F,0,43752,43831,0,1
+ M,0,43831,,420,300
+ F,0,46168,46294,1,0
+Sprite,Foreground,Centre,"SB\kata\te.png",400,240
+ F,0,43831,43910,0,1
+ M,0,43910,,460,300
+ F,0,46294,46421,1,0
+Sprite,Foreground,Centre,"SB\kata\stsu.png",400,240
+ F,0,43910,43989,0,1
+ M,0,43989,,500,300
+ F,0,46421,46547,1,0
+Sprite,Foreground,Centre,"SB\kata\to.png",400,240
+ F,0,43989,44068,0,1
+ M,0,44068,,540,300
+ F,0,46547,46673,1,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,78252,78568,260,145,260,165
+ F,0,78252,78568,0,1
+ F,0,82042,82252,1,0
+Sprite,Foreground,Centre,"SB\0-9\2.png",320,240
+ M,0,78252,78568,300,145,300,165
+ F,0,78252,78568,0,1
+ F,0,82252,82463,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,78252,78568,340,145,340,165
+ F,0,78252,78568,0,1
+ F,0,82463,82673,1,0
+Sprite,Foreground,Centre,"SB\kanji\yuu.png",320,240
+ M,0,78884,79200,260,210,260,230
+ F,0,78884,79200,0,1
+ F,0,82042,82132,1,0
+Sprite,Foreground,Centre,"SB\kanji\ga.png",320,240
+ M,0,78884,79200,300,210,300,230
+ F,0,78884,79200,0,1
+ F,0,82132,82222,1,0
+Sprite,Foreground,Centre,"SB\kana\ni.png",320,240
+ M,0,78884,79200,340,210,340,230
+ F,0,78884,79200,0,1
+ F,0,82222,82312,1,0
+Sprite,Foreground,Centre,"SB\kanji\saku.png",320,240
+ M,0,78884,79200,380,210,380,230
+ F,0,78884,79200,0,1
+ F,0,82312,82403,1,0
+Sprite,Foreground,Centre,"SB\kana\ka.png",320,240
+ M,0,78884,79200,420,210,420,230
+ F,0,78884,79200,0,1
+ F,0,82403,82493,1,0
+Sprite,Foreground,Centre,"SB\kana\se.png",320,240
+ M,0,78884,79200,460,210,460,230
+ F,0,78884,79200,0,1
+ F,0,82493,82583,1,0
+Sprite,Foreground,Centre,"SB\0-9\kuten.png",320,240
+ M,0,78884,79200,500,210,500,230
+ F,0,78884,79200,0,1
+ F,0,82583,82673,1,0
+Sprite,Foreground,Centre,"SB\kanji\sumi.png",320,240
+ M,0,78884,79200,380,280,380,300
+ F,0,78884,79200,0,1
+ F,0,82042,82200,1,0
+Sprite,Foreground,Centre,"SB\kanji\some.png",320,240
+ M,0,78884,79200,420,280,420,300
+ F,0,78884,79200,0,1
+ F,0,82200,82357,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ M,0,78884,79200,460,280,460,300
+ F,0,78884,79200,0,1
+ F,0,82357,82515,1,0
+Sprite,Foreground,Centre,"SB\kanji\sakura.png",320,240
+ M,0,78884,79200,500,280,500,300
+ F,0,78884,79200,0,1
+ F,0,82515,82673,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,79515,79831,240,350,240,370
+ F,0,79515,79831,0,1
+ F,0,82042,82094,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\B.png",320,240
+ M,0,79515,79831,280,350,280,370
+ F,0,79515,79831,0,1
+ F,0,82094,82147,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,79515,79831,305,350,305,370
+ F,0,79515,79831,0,1
+ F,0,82147,82200,1,0
+Sprite,Foreground,Centre,"SB\sa-z\d.png",320,240
+ M,0,79515,79831,330,350,330,370
+ F,0,79515,79831,0,1
+ F,0,82200,82252,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,79515,79831,355,350,355,370
+ F,0,79515,79831,0,1
+ F,0,82252,82305,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,79515,79831,380,350,380,370
+ F,0,79515,79831,0,1
+ F,0,82305,82357,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,79515,79831,420,350,420,370
+ F,0,79515,79831,0,1
+ F,0,82357,82410,1,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ M,0,79515,79831,445,350,445,370
+ F,0,79515,79831,0,1
+ F,0,82410,82463,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\L.png",320,240
+ M,0,79515,79831,485,350,485,370
+ F,0,79515,79831,0,1
+ F,0,82463,82515,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,79515,79831,510,350,510,370
+ F,0,79515,79831,0,1
+ F,0,82515,82568,1,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ M,0,79515,79831,535,350,535,370
+ F,0,79515,79831,0,1
+ F,0,82568,82621,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,79515,79831,560,350,560,370
+ F,0,79515,79831,0,1
+ F,0,82621,82673,1,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,138252,,260,165
+ F,0,138252,138568,0,1
+ S,0,138252,138568,1.5,1
+ F,0,146463,146673,1,0
+Sprite,Foreground,Centre,"SB\0-9\3.png",320,240
+ M,0,138252,,300,165
+ F,0,138568,138884,0,1
+ S,0,138568,138884,1.5,1
+ F,0,146673,146884,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,138252,,340,165
+ F,0,138884,139200,0,1
+ S,0,138884,139200,1.5,1
+ F,0,146884,147094,1,0
+Sprite,Foreground,Centre,"SB\kanji\o.png",320,240
+ M,0,138252,,260,230
+ F,0,139200,139515,0,1
+ S,0,139200,139515,1.5,1
+ F,0,146463,146542,1,0
+Sprite,Foreground,Centre,"SB\kanji\togi.png",320,240
+ M,0,138252,,300,230
+ F,0,139515,139831,0,1
+ S,0,139515,139831,1.5,1
+ F,0,146542,146621,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ M,0,138252,,340,230
+ F,0,139831,140147,0,1
+ S,0,139831,140147,1.5,1
+ F,0,146621,146700,1,0
+Sprite,Foreground,Centre,"SB\kanji\kuni.png",320,240
+ M,0,138252,,380,230
+ F,0,140147,140463,0,1
+ S,0,140147,140463,1.5,1
+ F,0,146700,146778,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ M,0,138252,,420,230
+ F,0,140463,140778,0,1
+ S,0,140463,140778,1.5,1
+ F,0,146778,146857,1,0
+Sprite,Foreground,Centre,"SB\kanji\oni.png",320,240
+ M,0,138252,,460,230
+ F,0,140778,141094,0,1
+ S,0,140778,141094,1.5,1
+ F,0,146857,146936,1,0
+Sprite,Foreground,Centre,"SB\kana\ga.png",320,240
+ M,0,138252,,500,230
+ F,0,141094,141410,0,1
+ S,0,141094,141410,1.5,1
+ F,0,146936,147015,1,0
+Sprite,Foreground,Centre,"SB\kanji\shima.png",320,240
+ M,0,138252,,540,230
+ F,0,141410,141726,0,1
+ S,0,141410,141726,1.5,1
+ F,0,147015,147094,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,138252,,240,300
+ F,0,141726,142042,0,1
+ S,0,141726,142042,1.5,1
+ F,0,146463,146542,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\M.png",320,240
+ M,0,138252,,280,300
+ F,0,142042,142200,0,1
+ S,0,142042,142200,1.5,1
+ F,0,146542,146621,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,138252,,305,300
+ F,0,142200,142357,0,1
+ S,0,142200,142357,1.5,1
+ F,0,146621,146700,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,138252,,330,300
+ F,0,142357,142515,0,1
+ S,0,142357,142515,1.5,1
+ F,0,146700,146778,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,138252,,355,300
+ F,0,142515,142673,0,1
+ S,0,142515,142673,1.5,1
+ F,0,146778,146857,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,138252,,380,300
+ F,0,142673,142831,0,1
+ S,0,142673,142831,1.5,1
+ F,0,146857,146936,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,138252,,405,300
+ F,0,142831,142989,0,1
+ S,0,142831,142989,1.5,1
+ F,0,146936,147015,1,0
+Sprite,Foreground,Centre,"SB\sa-z\g.png",320,240
+ M,0,138252,,430,300
+ F,0,142989,143147,0,1
+ S,0,142989,143147,1.5,1
+ F,0,147015,147094,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\P.png",320,240
+ M,0,138252,,470,300
+ F,0,143147,143305,0,1
+ S,0,143147,143305,1.5,1
+ F,0,146463,146589,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,138252,,495,300
+ F,0,143305,143463,0,1
+ S,0,143305,143463,1.5,1
+ F,0,146589,146715,1,0
+Sprite,Foreground,Centre,"SB\sa-z\w.png",320,240
+ M,0,138252,,520,300
+ F,0,143463,143621,0,1
+ S,0,143463,143621,1.5,1
+ F,0,146715,146842,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,138252,,545,300
+ F,0,143621,143778,0,1
+ S,0,143621,143778,1.5,1
+ F,0,146842,146968,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,138252,,570,300
+ F,0,143778,143936,0,1
+ S,0,143778,143936,1.5,1
+ F,0,146968,147094,1,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,215936,,260,165
+ F,0,215936,216568,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\0-9\4.png",320,240
+ M,0,215936,,300,165
+ F,0,215936,216568,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,215936,,340,165
+ F,0,215936,216568,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\kanji\sen.png",320,240
+ M,0,138252,,300,230
+ F,0,216568,217199,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\kanji\nen.png",320,240
+ M,0,138252,,340,230
+ F,0,216568,217199,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\kanji\gen.png",320,240
+ M,0,138252,,380,230
+ F,0,216568,217199,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\kanji\sou.png",320,240
+ M,0,138252,,420,230
+ F,0,216568,217199,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\kanji\kyou.png",320,240
+ M,0,138252,,460,230
+ F,0,216568,217199,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,215936,,240,300
+ F,0,217199,217831,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\H.png",320,240
+ M,0,215936,,280,300
+ F,0,217831,218147,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,215936,,305,300
+ F,0,217831,218147,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,215936,,330,300
+ F,0,217831,218147,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,215936,,355,300
+ F,0,217831,218147,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,215936,,380,300
+ F,0,217831,218147,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,215936,,405,300
+ F,0,217831,218147,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\y.png",320,240
+ M,0,215936,,430,300
+ F,0,217831,218147,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,215936,,470,300
+ F,0,218147,218462,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ M,0,215936,,495,300
+ F,0,218147,218462,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,215936,,535,300
+ F,0,218462,218778,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\h.png",320,240
+ M,0,215936,,560,300
+ F,0,218462,218778,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,215936,,585,300
+ F,0,218462,218778,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\M.png",320,240
+ M,0,215936,,450,370
+ F,0,218778,219094,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,215936,,475,370
+ F,0,218778,219094,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,215936,,500,370
+ F,0,218778,219094,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,215936,,525,370
+ F,0,218778,219094,0,1
+ F,0,222576,223517,1,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,233622,,260,165
+ F,0,233622,234253,0,1
+ F,0,241832,242043,1,0
+Sprite,Foreground,Centre,"SB\0-9\5.png",320,240
+ M,0,233622,,300,165
+ F,0,233622,234253,0,1
+ F,0,242043,242253,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,233622,,340,165
+ F,0,233622,234253,0,1
+ F,0,242253,242464,1,0
+Sprite,Foreground,Centre,"SB\kanji\take.png",320,240
+ M,0,234253,,300,230
+ F,0,234253,234885,0,1
+ F,0,241832,241990,1,0
+Sprite,Foreground,Centre,"SB\kanji\tori.png",320,240
+ M,0,234253,,340,230
+ F,0,234253,234885,0,1
+ F,0,241990,242148,1,0
+Sprite,Foreground,Centre,"SB\kanji\to.png",320,240
+ M,0,234253,,380,230
+ F,0,234253,234885,0,1
+ F,0,242148,242306,1,0
+Sprite,Foreground,Centre,"SB\kanji\syou.png",320,240
+ M,0,234253,,420,230
+ F,0,234253,234885,0,1
+ F,0,242306,242464,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,234885,,200,300
+ F,0,234885,235517,0,1
+ F,0,241832,241911,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\L.png",320,240
+ M,0,235517,,240,300
+ F,0,235517,236148,0,1
+ F,0,241911,241990,1,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ M,0,235517,,265,300
+ F,0,235517,236148,0,1
+ F,0,241990,242069,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,235517,,290,300
+ F,0,235517,236148,0,1
+ F,0,242069,242148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ M,0,235517,,315,300
+ F,0,235517,236148,0,1
+ F,0,242148,242227,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,235517,,340,300
+ F,0,235517,236148,0,1
+ F,0,242227,242306,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,235517,,365,300
+ F,0,235517,236148,0,1
+ F,0,242306,242385,1,0
+Sprite,Foreground,Centre,"SB\sa-z\c.png",320,240
+ M,0,235517,,390,300
+ F,0,235517,236148,0,1
+ F,0,242385,242464,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\P.png",320,240
+ M,0,236148,,430,300
+ F,0,236148,236780,0,1
+ F,0,241832,241911,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,236148,,455,300
+ F,0,236148,236780,0,1
+ F,0,241911,241990,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,236148,,480,300
+ F,0,236148,236780,0,1
+ F,0,241990,242069,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,236148,,505,300
+ F,0,236148,236780,0,1
+ F,0,242069,242148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\c.png",320,240
+ M,0,236148,,530,300
+ F,0,236148,236780,0,1
+ F,0,242148,242227,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,236148,,555,300
+ F,0,236148,236780,0,1
+ F,0,242227,242306,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,236148,,580,300
+ F,0,236148,236780,0,1
+ F,0,242306,242385,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,236148,,605,300
+ F,0,236148,236780,0,1
+ F,0,242385,242464,1,0
+Sprite,Foreground,Centre,"SB\0-9\+.png",320,240
+ M,0,236780,,410,330
+ F,0,236780,237095,0,1
+ F,0,241832,241959,1,0
+Sprite,Foreground,Centre,"SB\kanji\sen.png",320,240
+ M,0,237095,,230,360
+ F,0,237095,237174,0,1
+ F,0,241832,241959,1,0
+Sprite,Foreground,Centre,"SB\kanji\nen.png",320,240
+ M,0,237174,,270,360
+ F,0,237174,237253,0,1
+ F,0,241959,242085,1,0
+Sprite,Foreground,Centre,"SB\kanji\gen.png",320,240
+ M,0,237253,,310,360
+ F,0,237253,237332,0,1
+ F,0,242085,242211,1,0
+Sprite,Foreground,Centre,"SB\kanji\sou.png",320,240
+ M,0,237332,,350,360
+ F,0,237332,237411,0,1
+ F,0,242211,242338,1,0
+Sprite,Foreground,Centre,"SB\kanji\kyou.png",320,240
+ M,0,237411,,390,360
+ F,0,237411,237490,0,1
+ F,0,242338,242464,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,237490,,200,395
+ F,0,237490,237569,0,1
+ F,0,241832,241911,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\H.png",320,240
+ M,0,237569,,230,395
+ F,0,237569,237648,0,1
+ F,0,241911,241990,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,237648,,255,395
+ F,0,237648,237727,0,1
+ F,0,241990,242069,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,237727,,280,395
+ F,0,237727,237806,0,1
+ F,0,242069,242148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,237806,,305,395
+ F,0,237806,237885,0,1
+ F,0,242148,242227,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,237885,,330,395
+ F,0,237885,237964,0,1
+ F,0,242227,242306,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,237964,,355,395
+ F,0,237964,238043,0,1
+ F,0,242306,242385,1,0
+Sprite,Foreground,Centre,"SB\sa-z\y.png",320,240
+ M,0,238043,,380,395
+ F,0,238043,238122,0,1
+ F,0,242385,242464,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,238122,,425,395
+ F,0,238122,238201,0,1
+ F,0,241832,241902,1,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ M,0,238122,,450,395
+ F,0,238122,238280,0,1
+ F,0,241902,241973,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,238280,,495,395
+ F,0,238280,238359,0,1
+ F,0,241973,242043,1,0
+Sprite,Foreground,Centre,"SB\sa-z\h.png",320,240
+ M,0,238359,,520,395
+ F,0,238359,238438,0,1
+ F,0,242043,242113,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,238438,,545,395
+ F,0,238438,238517,0,1
+ F,0,242113,242183,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\M.png",320,240
+ M,0,238517,,500,430
+ F,0,238517,238595,0,1
+ F,0,242183,242253,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,238595,,525,430
+ F,0,238595,238674,0,1
+ F,0,242253,242324,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,238674,,550,430
+ F,0,238674,238753,0,1
+ F,0,242324,242394,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,238753,,575,430
+ F,0,238753,238832,0,1
+ F,0,242394,242464,1,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ F,0,291410,,1
+ M,0,291410,291726,260,-100,260,165
+ M,0,298358,298568,260,165,260,500
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\0-9\6.png",320,240
+ F,0,291726,,1
+ M,0,291726,292042,300,-100,300,165
+ M,0,298568,298779,300,165,300,500
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ F,0,292042,,1
+ M,0,292042,292358,340,-100,340,165
+ M,0,298779,298989,340,165,340,500
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\roku.png",320,240
+ F,0,292358,,1
+ M,0,292358,292516,240,-100,240,230
+ M,0,298358,298428,240,230,240,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\juu.png",320,240
+ F,0,292516,,1
+ M,0,292516,292673,280,-100,280,230
+ M,0,298428,298498,280,230,280,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\nen.png",320,240
+ F,0,292673,,1
+ M,0,292673,292831,320,-100,320,230
+ M,0,298498,298568,320,230,320,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\me.png",320,240
+ F,0,292831,,1
+ M,0,292831,292989,360,-100,360,230
+ M,0,298568,298638,360,230,360,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ F,0,292989,,1
+ M,0,292989,293147,400,-100,400,230
+ M,0,298638,298709,400,230,400,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\tou.png",320,240
+ F,0,293147,,1
+ M,0,293147,293305,440,-100,440,230
+ M,0,298709,298779,440,230,440,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\hou.png",320,240
+ F,0,293305,,1
+ M,0,293305,293463,480,-100,480,230
+ M,0,298779,298849,480,230,480,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\sai.png",320,240
+ F,0,293463,,1
+ M,0,293463,293621,520,-100,520,230
+ M,0,298849,298919,520,230,520,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\kanji\han.png",320,240
+ F,0,293621,,1
+ M,0,293621,293779,560,-100,560,230
+ M,0,298919,298989,560,230,560,570
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ F,0,293937,,1
+ M,0,293937,294016,240,-100,240,300
+ M,0,298358,298393,240,300,240,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\1A-Z\F.png",320,240
+ F,0,294016,,1
+ M,0,294016,294095,280,-100,280,300
+ M,0,298393,298428,280,300,280,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ F,0,294095,,1
+ M,0,294095,294173,305,-100,305,300
+ M,0,298428,298463,305,300,305,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ F,0,294173,,1
+ M,0,294173,294252,330,-100,330,300
+ M,0,298463,298498,330,300,330,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,294252,,1
+ M,0,294252,294331,355,-100,355,300
+ M,0,298498,298533,355,300,355,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ F,0,294331,,1
+ M,0,294331,294410,395,-100,395,300
+ M,0,298533,298568,395,300,395,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ F,0,294410,,1
+ M,0,294410,294489,420,-100,420,300
+ M,0,298568,298603,420,300,420,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\1A-Z\S.png",320,240
+ F,0,294489,,1
+ M,0,294489,294568,460,-100,460,300
+ M,0,298603,298638,460,300,460,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ F,0,294568,,1
+ M,0,294568,294647,485,-100,485,300
+ M,0,298638,298673,485,300,485,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\x.png",320,240
+ F,0,294647,,1
+ M,0,294647,294726,510,-100,510,300
+ M,0,298673,298709,240,300,240,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ F,0,294726,,1
+ M,0,294726,294805,535,-100,535,300
+ M,0,298709,298744,535,300,535,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\y.png",320,240
+ F,0,294805,,1
+ M,0,294805,294884,560,-100,560,300
+ M,0,298744,298779,560,300,560,640
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\1A-Z\Y.png",320,240
+ F,0,294884,,1
+ M,0,294884,294963,485,-100,485,370
+ M,0,298779,298814,485,370,485,710
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,294963,,1
+ M,0,294963,295042,510,-100,510,370
+ M,0,298814,298849,510,370,510,710
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ F,0,295042,,1
+ M,0,295042,295121,535,-100,535,370
+ M,0,298849,298884,535,370,535,710
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ F,0,295121,,1
+ M,0,295121,295200,560,-100,560,370
+ M,0,298884,298919,560,370,560,710
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ F,0,295200,,1
+ M,0,295200,295279,585,-100,585,370
+ M,0,298919,298954,585,370,585,710
+ F,0,298989,,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,385831,,260,165
+ F,0,385831,,1
+ F,0,394357,394568,1,0
+Sprite,Foreground,Centre,"SB\0-9\7.png",320,240
+ M,0,385831,,300,165
+ F,0,385831,,1
+ F,0,394568,394778,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,385831,,340,165
+ F,0,385831,,1
+ F,0,394778,394989,1,0
+Sprite,Foreground,Centre,"SB\kanji\kami.png",320,240
+ M,0,386305,,260,230
+ F,0,386305,,1
+ F,0,394357,394448,1,0
+Sprite,Foreground,Centre,"SB\kana\sa.png",320,240
+ M,0,386305,,300,230
+ F,0,386305,,1
+ F,0,394448,394538,1,0
+Sprite,Foreground,Centre,"SB\kana\bi.png",320,240
+ M,0,386305,,340,230
+ F,0,386305,,1
+ F,0,394538,394628,1,0
+Sprite,Foreground,Centre,"SB\kana\ta.png",320,240
+ M,0,386305,,380,230
+ F,0,386305,,1
+ F,0,394628,394718,1,0
+Sprite,Foreground,Centre,"SB\kanji\ko.png",320,240
+ M,0,386778,,420,230
+ F,0,386778,,1
+ F,0,394718,394808,1,0
+Sprite,Foreground,Centre,"SB\kanji\ikusa.png",320,240
+ M,0,386778,,460,230
+ F,0,386778,,1
+ F,0,394808,394899,1,0
+Sprite,Foreground,Centre,"SB\kanji\ba.png",320,240
+ M,0,386778,,500,230
+ F,0,386778,,1
+ F,0,394899,394989,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,387252,,220,300
+ F,0,387252,,1
+ F,0,394357,394392,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\S.png",320,240
+ M,0,387252,,260,300
+ F,0,387252,,1
+ F,0,394392,394428,1,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ M,0,387252,,285,300
+ F,0,387252,,1
+ F,0,394428,394463,1,0
+Sprite,Foreground,Centre,"SB\sa-z\w.png",320,240
+ M,0,387252,,310,300
+ F,0,387252,,1
+ F,0,394463,394498,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ M,0,387252,,335,300
+ F,0,387252,,1
+ F,0,394498,394533,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\F.png",320,240
+ M,0,387252,,375,300
+ F,0,387252,,1
+ F,0,394533,394568,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,387252,,400,300
+ F,0,387252,,1
+ F,0,394568,394603,1,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ M,0,387252,,425,300
+ F,0,387252,,1
+ F,0,394603,394638,1,0
+Sprite,Foreground,Centre,"SB\sa-z\g.png",320,240
+ M,0,387252,,450,300
+ F,0,387252,,1
+ F,0,394638,394673,1,0
+Sprite,Foreground,Centre,"SB\sa-z\h.png",320,240
+ M,0,387252,,475,300
+ F,0,387252,,1
+ F,0,394673,394708,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,387252,,500,300
+ F,0,387252,,1
+ F,0,394708,394743,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,387252,,525,300
+ F,0,387252,,1
+ F,0,394743,394778,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,387252,,550,300
+ F,0,387252,,1
+ F,0,394778,394813,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\F.png",320,240
+ M,0,387726,,475,370
+ F,0,387726,,1
+ F,0,394813,394849,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,387726,,500,370
+ F,0,387726,,1
+ F,0,394849,394884,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,387726,,525,370
+ F,0,387726,,1
+ F,0,394884,394919,1,0
+Sprite,Foreground,Centre,"SB\sa-z\l.png",320,240
+ M,0,387726,,550,370
+ F,0,387726,,1
+ F,0,394919,394954,1,0
+Sprite,Foreground,Centre,"SB\sa-z\d.png",320,240
+ M,0,387726,,575,370
+ F,0,387726,,1
+ F,0,394954,394989,1,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,475831,476147,260,175,260,165
+ F,0,475831,476147,0,1
+ F,0,482778,482989,1,0
+Sprite,Foreground,Centre,"SB\0-9\8.png",320,240
+ M,0,475831,476147,300,175,300,165
+ F,0,475831,476147,0,1
+ F,0,482989,483199,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,475831,476147,340,175,340,165
+ F,0,475831,476147,0,1
+ F,0,483199,483410,1,0
+Sprite,Foreground,Centre,"SB\kanji\ari.png",320,240
+ M,0,476463,476778,300,240,300,230
+ F,0,476463,476778,0,1
+ F,0,482778,482936,1,0
+Sprite,Foreground,Centre,"SB\kanji\itadaki.png",320,240
+ M,0,476778,477094,340,240,340,230
+ F,0,476778,477094,0,1
+ F,0,482936,483094,1,0
+Sprite,Foreground,Centre,"SB\kanji\ten.png",320,240
+ M,0,477094,477410,380,240,380,230
+ F,0,477094,477410,0,1
+ F,0,483094,483252,1,0
+Sprite,Foreground,Centre,"SB\kanji\hen.png",320,240
+ M,0,477410,477726,420,240,420,230
+ F,0,477410,477726,0,1
+ F,0,483252,483410,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,477726,477884,220,310,220,300
+ F,0,477726,477884,0,1
+ F,0,482778,482818,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\W.png",320,240
+ M,0,477884,478042,260,310,260,300
+ F,0,477884,478042,0,1
+ F,0,482818,482857,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,478042,478199,285,310,285,300
+ F,0,478042,478199,0,1
+ F,0,482857,482897,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,478199,478357,310,310,310,300
+ F,0,478199,478357,0,1
+ F,0,482897,482936,1,0
+Sprite,Foreground,Centre,"SB\sa-z\d.png",320,240
+ M,0,478357,478515,335,310,335,300
+ F,0,478357,478515,0,1
+ F,0,482936,482976,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,478515,478673,360,310,360,300
+ F,0,478515,478673,0,1
+ F,0,482976,483015,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,478673,478831,385,310,385,300
+ F,0,478673,478831,0,1
+ F,0,483015,483055,1,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ M,0,478831,478989,410,310,410,300
+ F,0,478831,478989,0,1
+ F,0,483055,483094,1,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ M,0,478989,479147,435,310,435,300
+ F,0,478989,479147,0,1
+ F,0,483094,483134,1,0
+Sprite,Foreground,Centre,"SB\sa-z\l.png",320,240
+ M,0,479147,479305,460,310,460,300
+ F,0,479147,479305,0,1
+ F,0,483134,483173,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\H.png",320,240
+ M,0,479305,479463,500,310,500,300
+ F,0,479305,479463,0,1
+ F,0,483173,483213,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,479463,479621,525,310,525,300
+ F,0,479463,479621,0,1
+ F,0,483213,483252,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ M,0,479621,479778,550,310,550,300
+ F,0,479621,479778,0,1
+ F,0,483252,483292,1,0
+Sprite,Foreground,Centre,"SB\sa-z\v.png",320,240
+ M,0,479778,479936,575,310,575,300
+ F,0,479778,479936,0,1
+ F,0,483292,483331,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,479936,480094,600,310,600,300
+ F,0,479936,480094,0,1
+ F,0,483331,483371,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,480094,480252,625,310,625,300
+ F,0,480094,480252,0,1
+ F,0,483371,483410,1,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ F,0,551621,,1
+ M,0,551621,552252,-120,165,260,165
+ F,0,557936,558147,1,0
+Sprite,Foreground,Centre,"SB\0-9\9.png",320,240
+ F,0,551621,,1
+ M,0,551621,552252,-80,165,300,165
+ F,0,558147,558357,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ F,0,551621,,1
+ M,0,551621,552252,-40,165,340,165
+ F,0,558357,558568,1,0
+Sprite,Foreground,Centre,"SB\kanji\rei.png",320,240
+ F,0,552884,,1
+ M,0,552884,553515,760,230,260,230
+ F,0,557936,558027,1,0
+Sprite,Foreground,Centre,"SB\kanji\shiru.png",320,240
+ F,0,552884,,1
+ M,0,552884,553515,800,230,300,230
+ F,0,558027,558117,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ F,0,552884,,1
+ M,0,552884,553515,840,230,340,230
+ F,0,558117,558207,1,0
+Sprite,Foreground,Centre,"SB\kanji\futo.png",320,240
+ F,0,552884,,1
+ M,0,552884,553515,880,230,380,230
+ F,0,558207,558297,1,0
+Sprite,Foreground,Centre,"SB\kanji\hinata.png",320,240
+ F,0,552884,,1
+ M,0,552884,553515,920,230,420,230
+ F,0,558297,558387,1,0
+Sprite,Foreground,Centre,"SB\kanji\shin.png",320,240
+ F,0,552884,,1
+ M,0,552884,553515,960,230,460,230
+ F,0,558387,558478,1,0
+Sprite,Foreground,Centre,"SB\kanji\kou.png",320,240
+ F,0,552884,,1
+ M,0,552884,553515,1000,230,500,230
+ F,0,558478,558568,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-395,300,240,300
+ F,0,557936,557981,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\N.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-355,300,280,300
+ F,0,557981,558027,1,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-330,300,305,300
+ F,0,558027,558072,1,0
+Sprite,Foreground,Centre,"SB\sa-z\c.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-305,300,330,300
+ F,0,558072,558117,1,0
+Sprite,Foreground,Centre,"SB\sa-z\l.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-280,300,355,300
+ F,0,558117,558162,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-255,300,380,300
+ F,0,558162,558207,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-230,300,405,300
+ F,0,558207,558252,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-205,300,430,300
+ F,0,558252,558297,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\F.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-165,300,470,300
+ F,0,558297,558342,1,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-140,300,495,300
+ F,0,558342,558387,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-115,300,520,300
+ F,0,558387,558433,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-90,300,545,300
+ F,0,558433,558478,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-65,300,570,300
+ F,0,558478,558523,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ F,0,554778,,1
+ M,0,554778,555410,-40,300,595,300
+ F,0,558523,558568,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ F,0,602147,,1
+ M,0,602147,602778,260,0,260,165
+ S,0,602778,602857,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,260,165,260,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ F,0,602147,,1
+ M,0,602147,602778,300,0,300,165
+ S,0,602778,602857,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,300,165,300,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ F,0,602147,,1
+ M,0,602147,602778,340,0,340,165
+ S,0,602778,602857,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,340,165,340,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\kata\a.png",320,240
+ F,0,604042,,1
+ M,0,604042,604673,260,0,260,230
+ S,0,604673,604752,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,260,230,260,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\kata\n.png",320,240
+ F,0,604042,,1
+ M,0,604042,604673,300,0,300,230
+ S,0,604673,604752,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,300,230,300,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\kata\no.png",320,240
+ F,0,604042,,1
+ M,0,604042,604673,340,0,340,230
+ S,0,604673,604752,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,340,230,340,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\kata\u.png",320,240
+ F,0,604042,,1
+ M,0,604042,604673,380,0,380,230
+ S,0,604673,604752,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,380,230,380,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\kata\n.png",320,240
+ F,0,604042,,1
+ M,0,604042,604673,420,0,420,230
+ S,0,604673,604752,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,420,230,420,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\1A-Z\X.png",320,240
+ F,0,604042,,1
+ M,0,604042,604673,460,0,460,230
+ S,0,604673,604752,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,460,230,460,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,200,0,200,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,200,300,200,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\1A-Z\U.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,240,0,240,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,240,300,240,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,265,0,265,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,265,300,265,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,290,0,290,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,290,300,290,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,315,0,315,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,315,300,315,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,340,0,340,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,340,300,340,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,365,0,365,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,365,300,365,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\d.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,390,0,390,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,390,300,390,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\1A-Z\A.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,430,0,430,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,430,300,430,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\d.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,455,0,455,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,455,300,455,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\v.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,480,0,480,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,480,300,480,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,505,0,505,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,505,300,505,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,530,0,530,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,530,300,530,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,555,0,555,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,555,300,555,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\u.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,580,0,580,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,580,300,580,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,605,0,605,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,605,300,605,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,605305,,1
+ M,0,605305,605936,630,0,630,300
+ S,0,605936,606015,0.2,1
+ S,0,608463,608542,1,0.2
+ M,0,608463,609094,630,300,630,600
+ F,0,609094,,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,662778,,260,165
+ F,0,662778,663094,0,1
+ F,0,670989,671199,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,662778,,300,165
+ F,0,663094,663410,0,1
+ F,0,671199,671410,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,662778,,340,165
+ F,0,663410,663726,0,1
+ F,0,671410,671621,1,0
+Sprite,Foreground,Centre,"SB\kanji\kan.png",320,240
+ M,0,664042,,260,230
+ F,0,664042,664357,0,1
+ F,0,670989,671094,1,0
+Sprite,Foreground,Centre,"SB\kanji\jou.png",320,240
+ M,0,664357,,300,230
+ F,0,664357,664673,0,1
+ F,0,671094,671199,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ M,0,664673,,340,230
+ F,0,664673,664989,0,1
+ F,0,671199,671305,1,0
+Sprite,Foreground,Centre,"SB\kanji\ma.png",320,240
+ M,0,664989,,380,230
+ F,0,664989,665305,0,1
+ F,0,671305,671410,1,0
+Sprite,Foreground,Centre,"SB\kanji\ten.png",320,240
+ M,0,665305,,420,230
+ F,0,665305,665621,0,1
+ F,0,671410,671515,1,0
+Sprite,Foreground,Centre,"SB\kanji\rou.png",320,240
+ M,0,665621,,460,230
+ F,0,665621,665936,0,1
+ F,0,671515,671621,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,666252,,260,300
+ F,0,666252,666410,0,1
+ F,0,670989,671079,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\C.png",320,240
+ M,0,666410,,300,300
+ F,0,666410,666568,0,1
+ F,0,671079,671169,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ M,0,666568,,325,300
+ F,0,666568,666726,0,1
+ F,0,671169,671260,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,666726,,350,300
+ F,0,666726,666884,0,1
+ F,0,671260,671350,1,0
+Sprite,Foreground,Centre,"SB\sa-z\m.png",320,240
+ M,0,666884,,375,300
+ F,0,666884,667042,0,1
+ F,0,671350,671440,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,667042,,400,300
+ F,0,667042,667199,0,1
+ F,0,671440,671530,1,0
+Sprite,Foreground,Centre,"SB\sa-z\c.png",320,240
+ M,0,667199,,425,300
+ F,0,667199,667357,0,1
+ F,0,671530,671621,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\M.png",320,240
+ M,0,667357,,460,300
+ F,0,667357,667515,0,1
+ F,0,670989,671147,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,667515,,485,300
+ F,0,667515,667673,0,1
+ F,0,671147,671305,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,667673,,510,300
+ F,0,667673,667831,0,1
+ F,0,671305,671463,1,0
+Sprite,Foreground,Centre,"SB\sa-z\d.png",320,240
+ M,0,667831,,535,300
+ F,0,667831,667989,0,1
+ F,0,671463,671621,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,836194,,260,165
+ F,0,836194,836810,0,1
+ F,0,839937,840214,1,0
+Sprite,Foreground,Centre,"SB\0-9\2.png",320,240
+ M,0,836194,,300,165
+ F,0,836194,836810,0,1
+ F,0,840214,840489,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,836194,,340,165
+ F,0,836194,836810,0,1
+ F,0,840489,840764,1,0
+Sprite,Foreground,Centre,"SB\kanji\kami.png",320,240
+ M,0,836810,,260,230
+ F,0,836810,837425,0,1
+ F,0,839937,840146,1,0
+Sprite,Foreground,Centre,"SB\kanji\wa.png",320,240
+ M,0,836810,,300,230
+ F,0,836810,837425,0,1
+ F,0,840146,840352,1,0
+Sprite,Foreground,Centre,"SB\kanji\gen.png",320,240
+ M,0,836810,,340,230
+ F,0,836810,837425,0,1
+ F,0,840352,840558,1,0
+Sprite,Foreground,Centre,"SB\kanji\sou.png",320,240
+ M,0,836810,,380,230
+ F,0,836810,837425,0,1
+ F,0,840558,840764,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,836810,,220,300
+ F,0,836810,837425,0,1
+ F,0,839937,839997,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\I.png",320,240
+ M,0,836810,,260,300
+ F,0,836810,837425,0,1
+ F,0,839997,840056,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,836810,,285,300
+ F,0,836810,837425,0,1
+ F,0,840056,840115,1,0
+Sprite,Foreground,Centre,"SB\sa-z\f.png",320,240
+ M,0,836810,,310,300
+ F,0,836810,837425,0,1
+ F,0,840115,840174,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,836810,,335,300
+ F,0,836810,837425,0,1
+ F,0,840174,840233,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,836810,,360,300
+ F,0,836810,837425,0,1
+ F,0,840233,840292,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,836810,,385,300
+ F,0,836810,837425,0,1
+ F,0,840292,840351,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,836810,,410,300
+ F,0,836810,837425,0,1
+ F,0,840351,840410,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,836810,,435,300
+ F,0,836810,837425,0,1
+ F,0,840410,840469,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\B.png",320,240
+ M,0,836810,,475,300
+ F,0,836810,837425,0,1
+ F,0,840469,840528,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,836810,,500,300
+ F,0,836810,837425,0,1
+ F,0,840528,840587,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,836810,,525,300
+ F,0,836810,837425,0,1
+ F,0,840587,840646,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,836810,,550,300
+ F,0,836810,837425,0,1
+ F,0,840646,840705,1,0
+Sprite,Foreground,Centre,"SB\sa-z\g.png",320,240
+ M,0,836810,,575,300
+ F,0,836810,837425,0,1
+ F,0,840705,840764,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,921379,,260,165
+ F,0,921379,921687,0,1
+ F,0,928764,928969,1,0
+Sprite,Foreground,Centre,"SB\0-9\3.png",320,240
+ M,0,921687,,300,165
+ F,0,921687,921994,0,1
+ F,0,928969,929174,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,921994,,340,165
+ F,0,921994,922302,0,1
+ F,0,929174,929379,1,0
+Sprite,Foreground,Centre,"SB\kanji\yuu.png",320,240
+ M,0,922302,,260,230
+ F,0,922302,922917,0,1
+ F,0,928764,929071,1,0
+Sprite,Foreground,Centre,"SB\kanji\mu.png",320,240
+ M,0,922610,,300,230
+ F,0,922610,922917,0,1
+ F,0,929071,929379,1,0
+Sprite,Foreground,Centre,"SB\0-9\~.png",320,240
+ M,0,922917,,220,300
+ F,0,922917,923225,0,1
+ F,0,928764,928825,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\I.png",320,240
+ M,0,923225,,260,300
+ F,0,923225,923533,0,1
+ F,0,928825,928887,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,923225,,285,300
+ F,0,923225,923533,0,1
+ F,0,928887,928948,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ M,0,923225,,310,300
+ F,0,923225,923533,0,1
+ F,0,928948,929010,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ M,0,923225,,335,300
+ F,0,923225,923533,0,1
+ F,0,929010,929071,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,923225,,360,300
+ F,0,923225,923533,0,1
+ F,0,929071,929133,1,0
+Sprite,Foreground,Centre,"SB\sa-z\m.png",320,240
+ M,0,923225,,385,300
+ F,0,923225,923533,0,1
+ F,0,929133,929194,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ M,0,923225,,410,300
+ F,0,923225,923533,0,1
+ F,0,929194,929256,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,923225,,435,300
+ F,0,923225,923533,0,1
+ F,0,929256,929317,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,923225,,460,300
+ F,0,923225,923533,0,1
+ F,0,929317,929379,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\D.png",320,240
+ M,0,923533,,500,300
+ F,0,923533,923840,0,1
+ F,0,928764,928887,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,923533,,525,300
+ F,0,923533,923840,0,1
+ F,0,928887,929010,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,923533,,550,300
+ F,0,923533,923840,0,1
+ F,0,929010,929133,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ M,0,923533,,575,300
+ F,0,923533,923840,0,1
+ F,0,929133,929256,1,0
+Sprite,Foreground,Centre,"SB\sa-z\m.png",320,240
+ M,0,923533,,600,300
+ F,0,923533,923840,0,1
+ F,0,929256,929379,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,976148,,260,165
+ F,0,976148,977379,0,1
+ S,0,976148,977379,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\0-9\4.png",320,240
+ M,0,976148,,300,165
+ F,0,976148,977379,0,1
+ S,0,976148,977379,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,976148,,340,165
+ F,0,976148,977379,0,1
+ S,0,976148,977379,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\S.png",320,240
+ M,0,977379,,265,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ M,0,977379,,290,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,977379,,315,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ M,0,977379,,340,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\w.png",320,240
+ M,0,977379,,365,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\b.png",320,240
+ M,0,977379,,390,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,977379,,415,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,977379,,440,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,977379,,465,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\y.png",320,240
+ M,0,977379,,490,230
+ F,0,977379,978609,0,1
+ S,0,977379,978609,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\C.png",320,240
+ M,0,978609,,390,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,978609,,415,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,978609,,440,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,978609,,465,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\i.png",320,240
+ M,0,978609,,490,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ M,0,978609,,515,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\0-9\!.png",320,240
+ M,0,978609,,540,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\0-9\!.png",320,240
+ M,0,978609,,560,280
+ F,0,978609,979840,0,1
+ S,0,978609,979840,3,1
+ F,0,983533,984148,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ F,0,1045071,,1
+ M,0,1045071,1045379,260,-100,260,165
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\0-9\5.png",320,240
+ F,0,1045379,,1
+ M,0,1045379,1045686,300,-100,300,165
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ F,0,1045686,,1
+ M,0,1045686,1045994,340,-100,340,165
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\C.png",320,240
+ F,0,1045994,,1
+ M,0,1045994,1046148,210,-100,210,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\o.png",320,240
+ F,0,1046148,,1
+ M,0,1046148,1046302,235,-100,235,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\m.png",320,240
+ F,0,1046302,,1
+ M,0,1046302,1046456,260,-100,260,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\p.png",320,240
+ F,0,1046456,,1
+ M,0,1046456,1046609,285,-100,285,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\l.png",320,240
+ F,0,1046609,,1
+ M,0,1046609,1046763,310,-100,310,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,1046763,,1
+ M,0,1046763,1046917,335,-100,335,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\t.png",320,240
+ F,0,1046917,,1
+ M,0,1046917,1047071,360,-100,360,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,1047071,,1
+ M,0,1047071,1047225,385,-100,385,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\1A-Z\D.png",320,240
+ F,0,1047225,,1
+ M,0,1047225,1047379,425,-100,425,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\a.png",320,240
+ F,0,1047379,,1
+ M,0,1047379,1047533,450,-100,450,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ F,0,1047533,,1
+ M,0,1047533,1047686,475,-100,475,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\k.png",320,240
+ F,0,1047686,,1
+ M,0,1047686,1047840,500,-100,500,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\n.png",320,240
+ F,0,1047840,,1
+ M,0,1047840,1047994,525,-100,525,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ F,0,1047994,,1
+ M,0,1047994,1048148,550,-100,550,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ F,0,1048148,,1
+ M,0,1048148,1048302,575,-100,575,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\sa-z\s.png",320,240
+ F,0,1048302,,1
+ M,0,1048302,1048456,600,-100,600,230
+ F,0,1051840,1052456,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,1145090,,260,165
+ F,0,1145090,1145398,0,1
+ F,0,1152475,1152680,1,0
+Sprite,Foreground,Centre,"SB\0-9\6.png",320,240
+ M,0,1145398,,300,165
+ F,0,1145398,1145705,0,1
+ F,0,1152680,1152885,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1145705,,340,165
+ F,0,1145705,1146013,0,1
+ F,0,1152885,1153090,1,0
+Sprite,Foreground,Centre,"SB\kanji\hoshi.png",320,240
+ M,0,1146321,,300,230
+ F,0,1146321,1146629,0,1
+ F,0,1152475,1152629,1,0
+Sprite,Foreground,Centre,"SB\kanji\yuu.png",320,240
+ M,0,1146629,,340,230
+ F,0,1146629,1146936,0,1
+ F,0,1152629,1152782,1,0
+Sprite,Foreground,Centre,"SB\kanji\ken.png",320,240
+ M,0,1146936,,380,230
+ F,0,1146936,1147244,0,1
+ F,0,1152782,1152936,1,0
+Sprite,Foreground,Centre,"SB\kanji\shi.png",320,240
+ M,0,1147244,,420,230
+ F,0,1147244,1147552,0,1
+ F,0,1152936,1153090,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ F,0,1209705,1210936,0,1
+ M,0,1212744,,260,165
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\0-9\7.png",320,240
+ F,0,1209705,1210936,0,1
+ M,0,1213398,,300,165
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ F,0,1209705,1210936,0,1
+ M,0,1213398,,340,165
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\i.png",320,240
+ M,0,1211552,,240,230
+ F,0,1211552,1212782,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\za.png",320,240
+ M,0,1211552,,280,230
+ F,0,1211552,1212782,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\0-9\kuten.png",320,240
+ M,0,1211552,,320,230
+ F,0,1211552,1212782,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kanji\taoreru.png",320,240
+ M,0,1213398,,280,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\re.png",320,240
+ M,0,1213398,,320,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kanji\yu.png",320,240
+ M,0,1213398,,360,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\ku.png",320,240
+ M,0,1213398,,400,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\so.png",320,240
+ M,0,1213398,,440,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ M,0,1213398,,480,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kanji\toki.png",320,240
+ M,0,1213398,,520,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\ma.png",320,240
+ M,0,1213398,,560,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\kana\de.png",320,240
+ M,0,1213398,,600,300
+ F,0,1213398,1214629,0,1
+ F,0,1217765,1218607,1,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,1284800,,260,165
+ F,0,1284800,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\0-9\8.png",320,240
+ M,0,1284800,,300,165
+ F,0,1284800,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1284800,,340,165
+ F,0,1284800,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\kanji\shinu.png",320,240
+ M,0,1285025,,260,230
+ F,0,1285025,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\kana\na.png",320,240
+ M,0,1285025,,300,230
+ F,0,1285025,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\kana\ba.png",320,240
+ M,0,1285025,,340,230
+ F,0,1285025,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\kana\mo.png",320,240
+ M,0,1285250,,420,230
+ F,0,1285250,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\kana\ro.png",320,240
+ M,0,1285250,,460,230
+ F,0,1285250,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\kana\to.png",320,240
+ M,0,1285250,,500,230
+ F,0,1285250,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\kana\mo.png",320,240
+ M,0,1285250,,540,230
+ F,0,1285250,,1
+ F,0,1293200,,0
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,1303400,1304000,260,145,260,165
+ F,0,1303400,1304000,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\0-9\9.png",320,240
+ M,0,1303400,1304000,300,145,300,165
+ F,0,1303400,1304000,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1303400,1304000,340,145,340,165
+ F,0,1303400,1304000,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\kata\bo.png",320,240
+ M,0,1304600,1305200,260,210,260,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\0-9\-.png",320,240
+ M,0,1304600,1305200,300,210,300,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\kata\da.png",320,240
+ M,0,1304600,1305200,340,210,340,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\0-9\-.png",320,240
+ M,0,1304600,1305200,380,210,380,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\kata\o.png",320,240
+ M,0,1304600,,320,240
+ M,0,1304600,1305200,420,210,420,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\kata\bu.png",320,240
+ M,0,1304600,1305200,460,210,460,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\kata\ra.png",320,240
+ M,0,1304600,1305200,500,210,500,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\kata\i.png",320,240
+ M,0,1304600,1305200,540,210,540,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\kata\fu.png",320,240
+ M,0,1304600,1305200,580,210,580,230
+ F,0,1304600,1305200,0,1
+ F,0,1308800,,1
+Sprite,Foreground,Centre,"SB\0-9\2.png",320,240
+ M,0,1322600,,260,165
+ F,0,1322600,1323200,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,1322600,,300,165
+ F,0,1322600,1323200,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1322600,,340,165
+ F,0,1322600,1323200,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\kata\vu.png",320,240
+ M,0,1324400,,260,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\kata\xo.png",320,240
+ M,0,1324400,,300,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\kata\ya.png",320,240
+ M,0,1324400,,340,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\-.png",320,240
+ M,0,1324400,,380,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\kata\ji.png",320,240
+ M,0,1324400,,420,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\kata\xyu.png",320,240
+ M,0,1324400,,460,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,1324400,,485,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\9.png",320,240
+ M,0,1324400,,510,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\7.png",320,240
+ M,0,1324400,,535,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\0-.png",320,240
+ M,0,1324400,,560,230
+ F,0,1324400,1325000,0,1
+ F,0,1328000,,1
+Sprite,Foreground,Centre,"SB\0-9\2.png",320,240
+ M,0,1341800,1342400,260,0,260,165
+ F,0,1341800,1348400,1
+ S,0,1342400,1342475,0.2,1
+Sprite,Foreground,Centre,"SB\0-9\1.png",320,240
+ M,0,1341800,1342400,300,0,300,165
+ F,0,1341800,1348400,1
+ S,0,1342400,1342475,0.2,1
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1341800,1342400,340,0,340,165
+ F,0,1341800,1348400,1
+ S,0,1342400,1342475,0.2,1
+Sprite,Foreground,Centre,"SB\kanji\sora.png",320,240
+ M,0,1343600,1344200,260,0,260,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\kana\ni.png",320,240
+ M,0,1343600,1344200,300,0,300,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\kanji\u.png",320,240
+ M,0,1343600,1344200,340,0,340,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\kana\ka.png",320,240
+ M,0,1343600,1344200,380,0,380,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\kana\bu.png",320,240
+ M,0,1343600,1344200,420,0,420,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\kanji\mono.png",320,240
+ M,0,1343600,1344200,460,0,460,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\kanji\karada.png",320,240
+ M,0,1343600,1344200,500,0,500,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\1A-Z\X.png",320,240
+ M,0,1343600,1344200,540,0,540,230
+ F,0,1343600,1348400,1
+ S,0,1344200,1344275,0.2,1
+Sprite,Foreground,Centre,"SB\0-9\2.png",320,240
+ M,0,1361395,1361775,260,175,260,165
+ F,0,1361395,1361775,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\0-9\2.png",320,240
+ M,0,1361775,1362154,300,175,300,165
+ F,0,1361775,1362154,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1362154,1362534,340,175,340,165
+ F,0,1362154,1362534,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\kanji\osanai.png",320,240
+ M,0,1362534,1362914,260,240,260,230
+ F,0,1362534,1362914,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\kanji\kokoro.png",320,240
+ M,0,1362914,1363294,300,240,300,230
+ F,0,1362914,1363294,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\kanji\chi.png",320,240
+ M,0,1363294,1363673,340,240,340,230
+ F,0,1363294,1363673,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\kana\no.png",320,240
+ M,0,1363673,1364053,380,240,380,230
+ F,0,1363673,1364053,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\kanji\ari.png",320,240
+ M,0,1364053,1364433,420,240,420,230
+ F,0,1364053,1364433,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\kanji\itadaki.png",320,240
+ M,0,1364433,1364813,460,240,460,230
+ F,0,1364433,1364813,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\kanji\ten.png",320,240
+ M,0,1364813,1365192,500,240,500,230
+ F,0,1364813,1365192,0,1
+ F,0,1369900,,1
+Sprite,Foreground,Centre,"SB\0-9\2.png",320,240
+ M,0,1385275,,260,165
+ F,0,1385275,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\0-9\3.png",320,240
+ M,0,1385275,,300,165
+ F,0,1385275,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1385275,,340,165
+ F,0,1385275,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\kanji\kudaku.png",320,240
+ M,0,1387107,,220,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\kanji\tuki.png",320,240
+ M,0,1387107,,260,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\0-9\(.png",320,240
+ M,0,1387107,,285,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\kanji\tou.png",320,240
+ M,0,1387107,,325,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\kanji\hou.png",320,240
+ M,0,1387107,,365,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\kanji\hi.png",320,240
+ M,0,1387107,,405,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\kanji\sou.png",320,240
+ M,0,1387107,,445,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\kanji\ten.png",320,240
+ M,0,1387107,,485,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\sa-z\v.png",320,240
+ M,0,1387107,,520,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\sa-z\e.png",320,240
+ M,0,1387107,,545,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\sa-z\r.png",320,240
+ M,0,1387107,,570,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\0-9\comma-s.png",320,240
+ M,0,1387107,,595,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\0-9\).png",320,240
+ M,0,1387107,,610,230
+ F,0,1387107,,1
+ F,0,1389855,1390771,1,0
+Sprite,Foreground,Centre,"SB\fin.png",320,240
+ F,0,1588175,1590465,1
+ F,0,1590465,1591381,1,0
+Sprite,Foreground,Centre,"SB\ty.png",320,240
+ M,0,1588175,,357.2363,388.3636
+ F,0,1588175,1590465,1
+ F,0,1590465,1591381,1,0
+Sprite,Foreground,Centre,"SB\0\title1.png",320,240
+ S,0,29029,,0.5
+ F,0,29029,29279,0,0.5
+ M,0,29029,33029,500,160,280,160
+ F,0,32029,33029,0.5,0
+Sprite,Foreground,Centre,"SB\0\title2.png",320,240
+ S,0,29029,,0.5
+ F,0,29029,29279,0,0.5
+ M,0,29029,33029,280,275,500,275
+ F,0,32029,33029,0.5,0
+Sprite,Foreground,Centre,"SB\0\1st title1.png",320,240
+ S,0,44068,,0.5
+ F,0,44068,44226,0,0.5
+ M,0,44068,46673,400,260,360,260
+ F,0,46042,46673,0.5,0
+Sprite,Foreground,Centre,"SB\0\2nd title1.png",320,240
+ S,0,79200,,0.5
+ F,0,79200,79357,0,0.5
+ M,0,79200,82673,370,260,330,260
+ F,0,82042,82673,0.5,0
+Sprite,Foreground,Centre,"SB\0\2nd title2.png",320,240
+ S,0,79200,,0.5
+ F,0,79200,79357,0,0.5
+ M,0,79200,82673,480,330,440,330
+ F,0,82042,82673,0.5,0
+Sprite,Foreground,Centre,"SB\0\3rd title1.png",320,240
+ S,0,141726,,0.5
+ F,0,141726,141884,0,0.5
+ M,0,141726,147094,440,260,380,260
+ F,0,146463,147094,0.5,0
+Sprite,Foreground,Centre,"SB\0\4th title1.png",320,240
+ S,0,217199,,0.5
+ F,0,217199,217357,0,0.5
+ M,0,217199,223517,440,260,360,260
+ F,0,222576,223517,0.5,0
+Sprite,Foreground,Centre,"SB\0\5th title1.png",320,240
+ S,0,234885,,0.5
+ F,0,234885,235043,0,0.5
+ M,0,234885,242464,400,260,360,260
+ F,0,241832,242464,0.5,0
+Sprite,Foreground,Centre,"SB\0\6th title1.png",320,240
+ S,0,293779,,0.5
+ F,0,293779,293937,0,0.5
+ M,0,293779,298989,410,260,395,260
+ F,0,298358,298989,0.5,0
+Sprite,Foreground,Centre,"SB\0\7th title1.png",320,240
+ F,0,386305,,0.5
+ S,0,386305,,0.5
+ F,0,394357,394989,0.5,0
+ M,0,394989,,315,260
+Sprite,Foreground,Centre,"SB\0\7th title2.png",320,240
+ M,0,386778,,460,260
+ F,0,386778,,0.5
+ S,0,386778,,0.5
+ F,0,394357,394989,0.5,0
+Sprite,Foreground,Centre,"SB\0\8th title1.png",320,240
+ S,0,477726,,0.5
+ F,0,477726,477884,0,0.5
+ M,0,477726,483410,400,260,360,260
+ F,0,482778,483410,0.5,0
+Sprite,Foreground,Centre,"SB\0\9th title1.png",320,240
+ S,0,553515,,0.5
+ F,0,553515,553673,0,0.5
+ M,0,553515,558568,420,260,360,260
+ F,0,557936,558568,0.5,0
+Sprite,Foreground,Centre,"SB\0\10th title1.png",320,240
+ S,0,604752,,0.5
+ F,0,604752,604910,0,0.5
+ M,0,604752,609094,400,260,320,260
+ F,0,608463,609094,0.5,0
+Sprite,Foreground,Centre,"SB\0\11th title1.png",320,240
+ S,0,665936,,0.5
+ F,0,665936,666094,0,0.5
+ M,0,665936,671621,400,260,360,260
+ F,0,670989,671621,0.5,0
+Sprite,Foreground,Centre,"SB\0\12th title1.png",320,240
+ S,0,837425,,0.5
+ F,0,837425,837579,0,0.5
+ M,0,837425,840764,360,260,320,260
+ F,0,839937,840764,0.5,0
+Sprite,Foreground,Centre,"SB\0\13th title1.png",320,240
+ S,0,922917,,0.5
+ F,0,922917,923071,0,0.5
+ M,0,922917,929379,320,260,300,260
+ F,0,928764,929379,0.5,0
+Sprite,Foreground,Centre,"SB\0\16th title1.png",320,240
+ S,0,1147552,,0.5
+ F,0,1147552,1147705,0,0.5
+ M,0,1147552,1153090,400,260,360,260
+ F,0,1152475,1153090,0.5,0
+Sprite,Foreground,Centre,"SB\0\17th title1.png",320,240
+ S,0,1212744,,0.5
+ M,0,1212744,1218607,300,260,260,260
+ F,0,1212782,1212936,0,0.5
+ F,0,1217765,1218607,0.5,0
+Sprite,Foreground,Centre,"SB\0\17th title2.png",320,240
+ S,0,1214629,,0.5
+ F,0,1214629,1214782,0,0.5
+ M,0,1214629,1218607,410,330,380,330
+ F,0,1217765,1218607,0.5,0
+Sprite,Foreground,Centre,"SB\0\18th title1.png",320,240
+ M,0,1285250,,390,260
+ S,0,1285250,,0.5
+ F,0,1285250,1293200,0.5
+Sprite,Foreground,Centre,"SB\0\19th title1.png",320,240
+ S,0,1305200,,0.5
+ F,0,1305200,1305350,0,0.5
+ M,0,1305200,1308800,450,260,380,260
+ F,0,1308800,,0
+Sprite,Foreground,Centre,"SB\0\20th title1.png",320,240
+ S,0,1325000,,0.5
+ F,0,1325000,1325150,0,0.5
+ M,0,1325000,1328000,400,260,360,260
+Sprite,Foreground,Centre,"SB\0\21st title1.png",320,240
+ S,0,1344275,,0.5
+ F,0,1344275,1344425,0,0.5
+ M,0,1344275,1348400,410,260,370,260
+ F,0,1348400,,0
+Sprite,Foreground,Centre,"SB\0\22nd title1.png",320,240
+ S,0,1365192,,0.5
+ F,0,1365192,1365572,0,0.5
+ M,0,1365192,1369900,400,260,360,260
+ F,0,1369900,,0.5
+Sprite,Foreground,Centre,"SB\0\22nd title2.png",320,240
+ S,0,1365192,,0.5
+ F,0,1365192,1365572,0,0.5
+ M,0,1365192,1369900,500,280,460,280
+ F,0,1369900,,0.5
+Sprite,Foreground,Centre,"SB\0\23rd title1.png",320,240
+ M,0,1387107,,400,260
+ F,0,1387107,,0.5
+ S,0,1387107,,0.5
+ F,0,1389855,1390771,0.5,0
+Sprite,Foreground,Centre,"SB\white.jpg",320,240
+ F,0,35798,36525,0,1
+ F,0,37200,37278,1,0
+ F,0,38384,38463,0,1
+ F,0,38463,38542,1,0
+ F,0,39647,39726,0,1
+ F,0,39726,39805,1,0
+ F,0,40910,40989,0,1
+ F,0,40989,41068,1,0
+Sprite,Foreground,Centre,"SB\white.jpg",320,240
+ F,0,1282400,1283300,0,1
+ F,0,1283600,1283675,1,0
+ F,0,1283750,1283825,0,1
+ F,0,1283825,1283900,1,0
+ F,0,1283975,1284050,0,1
+ F,0,1284050,1284125,1,0
+ F,0,1284725,1284800,0,1
+ F,0,1284800,1284875,1,0
+ F,0,1284950,1285025,0,1
+ F,0,1285025,1285100,1,0
+ F,0,1285175,1285250,0,1
+ F,0,1285250,1285325,1,0
+ F,0,1292600,1293200,0,1
+ F,0,1293200,1293800,1,0
+ F,0,1302200,1302800,0,1
+ F,0,1302800,1303400,1,0
+ F,0,1308200,1308800,0,1
+ F,0,1308800,1309400,1,0
+ F,0,1321400,1322000,0,1
+ F,0,1322000,1322600,1,0
+ F,0,1327400,1328000,0,1
+ F,0,1328000,1328600,1,0
+ F,0,1340600,1341200,0,1
+ F,0,1341200,1341800,1,0
+ F,0,1347800,1348400,0,1
+ F,0,1348400,1349000,1,0
+ F,0,1359848,1360636,0,1
+ F,0,1360636,1361395,1,0
+ F,0,1369103,1369900,0,1
+ F,0,1369900,1370697,1,0
+ F,0,1381523,1382483,0,1
+ F,0,1382963,,0
+ F,0,1383328,1383443,0,1
+ F,0,1383443,1383557,1,0
+ F,0,1385160,1385275,0,1
+ F,0,1385275,1385389,1,0
+ F,0,1386992,1387107,0,1
+ F,0,1387107,1387221,1,0
+Sprite,Foreground,Centre,"SB\white.jpg",320,240
+ F,0,1586801,1587717,0,1
+ F,0,1587717,1588175,1
+Sprite,Foreground,Centre,"SB\white.jpg",320,240
+ F,0,385436,385515,0,1
+ F,0,385515,385594,1,0
+ F,0,385752,385831,0,1
+ F,0,385831,385910,1,0
+ F,0,386226,386305,0,1
+ F,0,386305,386384,1,0
+ F,0,386699,386778,0,1
+ F,0,386778,386857,1,0
+ F,0,387173,387252,0,1
+ F,0,387252,387331,1,0
+ F,0,387647,387726,0,1
+ F,0,387726,387805,1,0
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples

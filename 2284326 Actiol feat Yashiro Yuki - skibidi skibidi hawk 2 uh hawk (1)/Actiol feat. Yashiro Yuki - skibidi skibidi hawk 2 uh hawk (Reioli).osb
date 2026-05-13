@@ -1,0 +1,17 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"BG.jpg",320,240
+ F,0,0,,0
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,12546,0,"sb/sfx/sad.wav",90
+Sample,20247,0,"sb/sfx/upset.wav",90
+Sample,28497,0,"sb/sfx/surprise.wav",90
+Sample,29047,0,"sb/sfx/bulb.wav",70
+Sample,30047,0,"sb/sfx/boom.wav",80
+Sample,31380,0,"sb/sfx/fall.wav",90
+Sample,39497,0,"sb/sfx/scream.wav",70

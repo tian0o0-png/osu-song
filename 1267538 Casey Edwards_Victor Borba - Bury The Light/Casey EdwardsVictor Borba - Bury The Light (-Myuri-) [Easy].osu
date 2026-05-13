@@ -1,0 +1,88 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 222955
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.1
+
+[Metadata]
+Title:Bury The Light
+TitleUnicode:Bury The Light
+Artist:Casey Edwards/Victor Borba
+ArtistUnicode:Casey Edwards/Victor Borba
+Creator:-Myuri-
+Version:Easy
+Source:
+Tags:Devil May Cry 5 Vergil V DMC Special Edition Trailer Music
+BeatmapID:2646565
+BeatmapSetID:1267538
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:2
+OverallDifficulty:3
+ApproachRate:2.5
+SliderMultiplier:2
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-3.4285714285716,399.920015996801,4,1,0,100,1,0
+27113,-200,4,3,0,50,0,0
+39910,-200,4,1,0,30,0,0
+46309,-200,4,1,0,30,0,0
+48108,-100,4,1,0,30,0,0
+49508,-200,4,1,0,30,0,0
+51108,-100,4,1,0,30,0,0
+52708,-200,4,1,0,30,0,0
+55907,-200,4,2,0,30,0,0
+81564,-133.333333333333,4,2,0,30,0,0
+94361,-133.333333333333,4,2,0,30,0,1
+94461,-133.333333333333,4,2,0,30,0,0
+107159,-133.333333333333,4,2,0,30,0,1
+107259,-133.333333333333,4,2,0,30,0,0
+119556,-400,4,2,0,30,0,0
+119956,-133.333333333333,4,2,0,30,0,0
+123155,-133.333333333333,4,2,0,30,0,1
+148750,-133.333333333333,4,2,0,30,0,0
+174365,-200,4,2,0,30,0,0
+176231,-133.333333333333,4,2,0,30,0,0
+177565,-200,4,2,0,30,0,0
+179164,-133.333333333333,4,2,0,30,0,0
+180764,-200,4,2,0,30,0,0
+182364,-100,4,2,0,30,0,0
+183963,-200,4,2,0,30,0,0
+185563,-133.333333333333,4,2,0,30,0,0
+187163,-200,4,2,0,30,0,0
+188762,-133.333333333333,4,2,0,30,0,0
+190362,-200,4,2,0,30,0,0
+215969,-133.333333333333,4,2,0,30,0,0
+241564,-133.333333333333,4,2,0,30,0,0
+254361,-200,4,2,0,30,0,0
+
+
+[HitObjects]
+98,56,39988,6,0,P|51:138|84:234,1,200
+406,329,43187,2,0,P|453:247|420:151,1,200
